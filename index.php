@@ -1,4 +1,3 @@
-<!-- <link href="https://www.fridayweekend.com/resources/css/fridayweekend.styles.css" rel="stylesheet" type="text/css" /> -->
 
 <link href="jquery.imagepicker.css" rel="stylesheet" type="text/css" />
 
